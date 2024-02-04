@@ -15,7 +15,7 @@ Click the Load Unpacked button on the top left
 
 ![image](https://github.com/peterwangsc/darkviewer/assets/2318867/82dab4de-7bdc-4bd7-95a4-8f804de895f3)
 
-Navigate to the darkviewer directory and click Select File
+Navigate to the darkviewer directory and click Select Folder
 
 ![image](https://github.com/peterwangsc/darkviewer/assets/2318867/01e1b9cd-4ad6-4171-8681-6058a805afe9)
 
